@@ -6,6 +6,8 @@
 4. She comes around five.
 5. I arrived at the place.
 
+<hr/>
+
 1. I know the way to the building.
 2. He has a plan for it.
 -> He has a plan for **this**.
