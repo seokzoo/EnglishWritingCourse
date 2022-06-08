@@ -1,5 +1,7 @@
 #!/bin/zsh
 
+cd $(dirname $0)
+
 for file in ./Day*
 do
     if [ -s "$file" ]; then
