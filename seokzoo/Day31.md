@@ -10,7 +10,6 @@
 - to receive 
 - to copy 
 </hr>
-#### 2
 1. Some people like.
 2. I volunteered.
 3. We expect.
@@ -22,7 +21,6 @@
 9. She hesitated.
 10. Mike decided.
 </hr>
-#### 3
 1. Some people like to read adventure novels.
 2. I volunteered to help the **patients**.
 3. We expect to attract customers.
@@ -38,7 +36,6 @@
 10. Mike decided to copy the whole book.
 -> Mike decided to copy **the entire book**.
 </hr>
-#### 4
 1. Some people like to read adventure novels.
 2. I volunteered to help the patients.
 3. We expect to attract customers.
