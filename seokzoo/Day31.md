@@ -8,7 +8,7 @@
 - to recommend 
 - to receive 
 - to copy 
-</hr>
+</hr>  
 1. Some people like.
 2. I volunteered.
 3. We expect.
@@ -19,7 +19,7 @@
 8. Passengers need.
 9. She hesitated.
 10. Mike decided.
-</hr>
+</hr>  
 1. Some people like to read adventure novels.
 2. I volunteered to help the **patients**.
 3. We expect to attract customers.
