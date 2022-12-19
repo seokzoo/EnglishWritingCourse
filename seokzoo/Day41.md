@@ -33,7 +33,16 @@ Next time, I will be more careful to choose the date. Don't hesitate and contact
 Sincerely, Steven  
   
 #### 4
+Dear Jason,  
 
+I missed it. I forgot to do it. I tried to call you to tell, but I was too busy to call you on time. I was too busy to forget it. I want to apologize you about this problem.  
+-> **I was busy enough to forget it.** I want to apologize to you **for the trouble**.
+I should have notified you earlier, but it was too late to avoid some loss. But, we are stable to recover the loss. Please, don't change the original plan because of this. I was also so surprised to realize my mistake. From now, I promise to consider you first to save **the money and time**. Now, I am ready to try again.  
+-> However, we are **steady enough** to recover the loss. 
+Next time, I will be more careful to choose the date. I will be careful enoughly to keep the date. Don't hesitate and call me anytime to ask questions. I hope to see you soon to explain more to you.  
+-> I will be careful enough to keep the date exactly. Don't hesitate and **contact** me anytime to ask questions!
+
+Sincerely, Steven  
   
 </hr>
 - too, so ?  
