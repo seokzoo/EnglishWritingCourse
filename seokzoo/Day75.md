@@ -15,6 +15,7 @@
 4. You write. You will write.
 5. I see her. I like her.
 ### 4
+<<<<<<< HEAD
 1. The more you study, the more you understand.
 -> The more you study, the more you will understand.  
 2. The bigger it is, the more expensive it is.
